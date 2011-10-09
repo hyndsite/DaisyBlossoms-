@@ -1,0 +1,321 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="9D3A890F-7E23-4A3A-A47C-FAA48CE716A3/d:Views/d:Shared/f:Admin.Master" caret="515" fromTop="16" />
+      <File id="610C081B-6DDC-4BDD-9E31-BEE2042B3A5C/f:IUnitOfWork.cs" caret="192" fromTop="12" />
+      <File id="9D3A890F-7E23-4A3A-A47C-FAA48CE716A3/d:Infrastructure/f:SessionProvider.cs" caret="395" fromTop="17" />
+      <File id="9D3A890F-7E23-4A3A-A47C-FAA48CE716A3/d:Infrastructure/f:ModuleRepository.cs" caret="749" fromTop="24" />
+      <File id="9D3A890F-7E23-4A3A-A47C-FAA48CE716A3/d:Infrastructure/f:NinjectControllerFactory.cs" caret="0" fromTop="0" />
+      <File id="3EB60312-6A2D-40C2-8B6B-B9502DA4A091/f:UnitOfWork.cs" caret="0" fromTop="0" />
+      <File id="3EB60312-6A2D-40C2-8B6B-B9502DA4A091/f:NHibernateHelper.cs" caret="1013" fromTop="36" />
+      <File id="3EB60312-6A2D-40C2-8B6B-B9502DA4A091/d:Maps/f:CategoryMap.cs" caret="424" fromTop="21" />
+      <File id="3EB60312-6A2D-40C2-8B6B-B9502DA4A091/d:Maps/f:ProductMap.cs" caret="395" fromTop="15" />
+      <File id="9D3A890F-7E23-4A3A-A47C-FAA48CE716A3/d:Models/d:Admin/f:ProductListViewModel.cs" caret="0" fromTop="0" />
+      <File id="A996E678-C8E0-4605-B8CE-90C646240647/f:Category.cs" caret="0" fromTop="0" />
+      <File id="9D3A890F-7E23-4A3A-A47C-FAA48CE716A3/f:Global.asax.cs" caret="764" fromTop="18" />
+      <File id="610C081B-6DDC-4BDD-9E31-BEE2042B3A5C/f:IReadOnlyRepository.cs" caret="0" fromTop="0" />
+      <File id="610C081B-6DDC-4BDD-9E31-BEE2042B3A5C/f:IRepository.cs" caret="0" fromTop="0" />
+      <File id="BCF98CD4-8FE5-402C-8DB6-7BAAD31FA180/d:Helpers/f:Helper.cs" caret="216" fromTop="6" />
+      <File id="A996E678-C8E0-4605-B8CE-90C646240647/f:Product.cs" caret="397" fromTop="14" />
+      <File id="9D3A890F-7E23-4A3A-A47C-FAA48CE716A3/d:Views/f:Web.config" caret="528" fromTop="13" />
+      <File id="9D3A890F-7E23-4A3A-A47C-FAA48CE716A3/f:Web.config" caret="500" fromTop="11" />
+      <File id="9D3A890F-7E23-4A3A-A47C-FAA48CE716A3/d:Views/d:Admin/f:Edit.aspx" caret="5790" fromTop="138" />
+      <File id="9D3A890F-7E23-4A3A-A47C-FAA48CE716A3/d:Views/d:Admin/f:List.aspx" caret="1056" fromTop="18" />
+      <File id="BCF98CD4-8FE5-402C-8DB6-7BAAD31FA180/d:Controller Tests/f:AdminControllerTests.cs" caret="1830" fromTop="23" />
+      <File id="9D3A890F-7E23-4A3A-A47C-FAA48CE716A3/d:Controllers/f:AdminController.cs" caret="1001" fromTop="34" />
+      <File id="3EB60312-6A2D-40C2-8B6B-B9502DA4A091/f:Repository.cs" caret="1000" fromTop="31" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9D3A890F-7E23-4A3A-A47C-FAA48CE716A3/d:Views/d:Admin/f:List.aspx" caret="1130" fromTop="18" />
+      <File id="9D3A890F-7E23-4A3A-A47C-FAA48CE716A3/d:Views/d:Admin/f:List.aspx" caret="1130" fromTop="31" />
+      <File id="9D3A890F-7E23-4A3A-A47C-FAA48CE716A3/d:Views/d:Admin/f:List.aspx" caret="1134" fromTop="12" />
+      <File id="9D3A890F-7E23-4A3A-A47C-FAA48CE716A3/d:Controllers/f:AdminController.cs" caret="637" fromTop="17" />
+      <File id="9D3A890F-7E23-4A3A-A47C-FAA48CE716A3/d:Controllers/f:AdminController.cs" caret="389" fromTop="8" />
+      <File id="9D3A890F-7E23-4A3A-A47C-FAA48CE716A3/d:Controllers/f:AdminController.cs" caret="818" fromTop="12" />
+      <File id="9D3A890F-7E23-4A3A-A47C-FAA48CE716A3/d:Views/d:Admin/f:Edit.aspx" caret="638" fromTop="7" />
+      <File id="9D3A890F-7E23-4A3A-A47C-FAA48CE716A3/d:Views/d:Admin/f:Edit.aspx" caret="1102" fromTop="7" />
+      <File id="9D3A890F-7E23-4A3A-A47C-FAA48CE716A3/d:Views/d:Admin/f:Edit.aspx" caret="1306" fromTop="11" />
+      <File id="BCF98CD4-8FE5-402C-8DB6-7BAAD31FA180/d:Helpers/f:Helper.cs" caret="3370" fromTop="24" />
+      <File id="BCF98CD4-8FE5-402C-8DB6-7BAAD31FA180/d:Helpers/f:Helper.cs" caret="1402" fromTop="23" />
+      <File id="BCF98CD4-8FE5-402C-8DB6-7BAAD31FA180/d:Helpers/f:Helper.cs" caret="3370" fromTop="17" />
+      <File id="BCF98CD4-8FE5-402C-8DB6-7BAAD31FA180/d:Helpers/f:Helper.cs" caret="3370" fromTop="17" />
+      <File id="BCF98CD4-8FE5-402C-8DB6-7BAAD31FA180/d:Helpers/f:Helper.cs" caret="3370" fromTop="15" />
+      <File id="BCF98CD4-8FE5-402C-8DB6-7BAAD31FA180/d:Helpers/f:Helper.cs" caret="3370" fromTop="28" />
+      <File id="BCF98CD4-8FE5-402C-8DB6-7BAAD31FA180/d:Controller Tests/f:AdminControllerTests.cs" caret="1447" fromTop="24" />
+      <File id="BCF98CD4-8FE5-402C-8DB6-7BAAD31FA180/d:Controller Tests/f:AdminControllerTests.cs" caret="1450" fromTop="17" />
+      <File id="BCF98CD4-8FE5-402C-8DB6-7BAAD31FA180/d:Helpers/f:Helper.cs" caret="3370" fromTop="13" />
+      <File id="BCF98CD4-8FE5-402C-8DB6-7BAAD31FA180/d:Helpers/f:Helper.cs" caret="3370" fromTop="22" />
+      <File id="BCF98CD4-8FE5-402C-8DB6-7BAAD31FA180/d:Helpers/f:Helper.cs" caret="3370" fromTop="14" />
+      <File id="BCF98CD4-8FE5-402C-8DB6-7BAAD31FA180/d:Helpers/f:Helper.cs" caret="3371" fromTop="13" />
+      <File id="BCF98CD4-8FE5-402C-8DB6-7BAAD31FA180/d:Helpers/f:Helper.cs" caret="1014" fromTop="11" />
+      <File id="9D3A890F-7E23-4A3A-A47C-FAA48CE716A3/f:Web.config" caret="228" fromTop="7" />
+      <File id="9D3A890F-7E23-4A3A-A47C-FAA48CE716A3/d:Views/d:Admin/f:List.aspx" caret="981" fromTop="18" />
+      <File id="BCF98CD4-8FE5-402C-8DB6-7BAAD31FA180/d:Controller Tests/f:AdminControllerTests.cs" caret="458" fromTop="15" />
+      <File id="BCF98CD4-8FE5-402C-8DB6-7BAAD31FA180/d:Controller Tests/f:AdminControllerTests.cs" caret="758" fromTop="22" />
+      <File id="BCF98CD4-8FE5-402C-8DB6-7BAAD31FA180/d:Controller Tests/f:AdminControllerTests.cs" caret="1620" fromTop="16" />
+      <File id="BCF98CD4-8FE5-402C-8DB6-7BAAD31FA180/d:Controller Tests/f:AdminControllerTests.cs" caret="1906" fromTop="24" />
+      <File id="9D3A890F-7E23-4A3A-A47C-FAA48CE716A3/d:Controllers/f:AdminController.cs" caret="1001" fromTop="34" />
+      <File id="3EB60312-6A2D-40C2-8B6B-B9502DA4A091/f:Repository.cs" caret="1000" fromTop="31" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.8\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Ninject" priority="0" />
+      <Item value="entity" priority="3" />
+      <Item value="T`0" priority="5" />
+      <Item value="Fluently`0" priority="0" />
+      <Item value="Database`0" priority="0" />
+      <Item value="using" priority="3" />
+      <Item value="NHibernate" priority="1" />
+      <Item value="TEntity`0" priority="0" />
+      <Item value="bool" priority="2" />
+      <Item value="IRepository" priority="5" />
+      <Item value="Category`0" priority="17" />
+      <Item value="private" priority="3" />
+      <Item value="_prodRepo" priority="11" />
+      <Item value="prodRepo" priority="12" />
+      <Item value="_catRepo" priority="4" />
+      <Item value="catRepo" priority="1" />
+      <Item value="return" priority="7" />
+      <Item value="ViewDataDictionary`0" priority="0" />
+      <Item value="var" priority="28" />
+      <Item value="x" priority="4" />
+      <Item value="References`1" priority="3" />
+      <Item value="HasMany`0" priority="3" />
+      <Item value="public" priority="20" />
+      <Item value="virtual" priority="2" />
+      <Item value="int" priority="5" />
+      <Item value="IList" priority="7" />
+      <Item value="Product`0" priority="17" />
+      <Item value="item" priority="4" />
+      <Item value="ProductListViewModel`0" priority="1" />
+      <Item value="string" priority="0" />
+      <Item value="new" priority="22" />
+      <Item value="Products" priority="2" />
+      <Item value="CategoryName" priority="0" />
+      <Item value="Categories" priority="0" />
+      <Item value="IQueryable`0" priority="1" />
+      <Item value="Id`1" priority="0" />
+      <Item value="HasOne`1" priority="0" />
+      <Item value="Bind`0" priority="0" />
+      <Item value="Repository" priority="0" />
+      <Item value="vm" priority="0" />
+      <Item value="references" priority="0" />
+      <Item value="m" priority="1" />
+      <Item value="ConventionBuilder`0" priority="1" />
+      <Item value="ForeignKey`0" priority="1" />
+      <Item value="ViewResult`0" priority="1" />
+      <Item value="void" priority="5" />
+      <Item value="Category" priority="7" />
+      <Item value="CategoryId" priority="4" />
+      <Item value="Description" priority="5" />
+      <Item value="Name" priority="6" />
+      <Item value="List&lt;Product&gt;" priority="1" />
+      <Item value="null" priority="0" />
+      <Item value="category" priority="0" />
+      <Item value="AdminControllerTests`0" priority="1" />
+      <Item value="where" priority="0" />
+      <Item value="class" priority="0" />
+      <Item value="as" priority="1" />
+      <Item value="Mock`0" priority="1" />
+      <Item value="static" priority="2" />
+      <Item value="Product" priority="1" />
+      <Item value="DefaultValue`0" priority="0" />
+      <Item value="AdminController`0" priority="2" />
+      <Item value="List" priority="4" />
+      <Item value="Microsoft" priority="0" />
+      <Item value="System" priority="1" />
+      <Item value="Linq" priority="2" />
+      <Item value="expression" priority="0" />
+      <Item value="ThreadStaticAttribute`0" priority="0" />
+      <Item value="prods" priority="1" />
+      <Item value="Expression&lt;Func&lt;Product,bool&gt;&gt;" priority="0" />
+      <Item value="SetUp" priority="0" />
+      <Item value="Helpers" priority="3" />
+      <Item value="products" priority="3" />
+      <Item value="ProductId" priority="1" />
+      <Item value="List`0" priority="0" />
+      <Item value="Collections" priority="0" />
+      <Item value="Generic" priority="0" />
+      <Item value="adminController" priority="0" />
+      <Item value="p" priority="0" />
+      <Item value="prod" priority="4" />
+      <Item value="View`0" priority="0" />
+      <Item value="try" priority="0" />
+      <Item value="id" priority="1" />
+      <Item value="prodId" priority="0" />
+      <Item value="Assert`0" priority="3" />
+      <Item value="viewModel" priority="0" />
+      <Item value="productRepo" priority="0" />
+      <Item value="expr" priority="1" />
+      <Item value="Expression`0" priority="4" />
+      <Item value="Expression" priority="0" />
+      <Item value="Func" priority="2" />
+      <Item value="filter" priority="1" />
+      <Item value="Moq" priority="0" />
+      <Item value="ProductRepo" priority="7" />
+      <Item value="catProds" priority="0" />
+      <Item value="singleProd" priority="0" />
+      <Item value="categories" priority="0" />
+      <Item value="List&lt;Category&gt;" priority="0" />
+      <Item value="GetProducts`0" priority="3" />
+      <Item value="List&lt;string&gt;" priority="1" />
+      <Item value="stringy" priority="0" />
+      <Item value="stringgg" priority="0" />
+      <Item value="CategoryRepo" priority="4" />
+      <Item value="Helper`0" priority="0" />
+      <Item value="NewsStyleUriParser`0" priority="0" />
+      <Item value="AdminController" priority="3" />
+      <Item value="prodToDelete" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.Linq.INHibernateQueryable`1">
+      <Item value="AsQueryable`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DTOS.Product">
+      <Item value="CategoryId" priority="9" />
+      <Item value="Name" priority="2" />
+      <Item value="Category" priority="3" />
+      <Item value="Price" priority="0" />
+      <Item value="SalePrice" priority="0" />
+      <Item value="ProductId" priority="10" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.ISession">
+      <Item value="Save`0" priority="0" />
+      <Item value="Query`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:T">
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FluentNHibernate.Cfg.Fluently">
+      <Item value="Configure`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Decimal">
+      <Item value="ToString`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Mapping.IdentityPart">
+      <Item value="Column`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RepoInfrastructure.IRepository`1">
+      <Item value="All`0" priority="11" />
+      <Item value="FindBy`0" priority="7" />
+      <Item value="FilterBy`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DTOS.Category">
+      <Item value="CategoryId" priority="4" />
+      <Item value="Name" priority="2" />
+      <Item value="ProductId" priority="0" />
+      <Item value="Product" priority="0" />
+      <Item value="Products" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Mapping.OneToManyPart`1">
+      <Item value="LazyLoad`0" priority="1" />
+      <Item value="Cascade" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Mapping.CollectionCascadeExpression`1">
+      <Item value="All`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="FirstOrDefault`1" priority="3" />
+      <Item value="AsQueryable`0" priority="1" />
+      <Item value="Where`0" priority="1" />
+      <Item value="ElementType" priority="0" />
+      <Item value="Any`1" priority="0" />
+      <Item value="Where`1" priority="3" />
+      <Item value="Single`1" priority="0" />
+      <Item value="Count`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:WebUI.Models.Admin.ProductListViewModel">
+      <Item value="Products" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Mapping.Builders.PropertyBuilder">
+      <Item value="Column`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Ninject.Syntax.IBindingToSyntax`1">
+      <Item value="To`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Mapping.Builders.ManyToOneBuilder`1">
+      <Item value="Column`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Cfg.MappingConfiguration">
+      <Item value="FluentMappings" priority="0" />
+      <Item value="AutoMappings" priority="2" />
+      <Item value="Apply`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Cfg.AutoMappingsContainer">
+      <Item value="Add`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FluentNHibernate.Conventions.Helpers.ConventionBuilder">
+      <Item value="Class" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Cfg.FluentMappingsContainer">
+      <Item value="Conventions" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Cfg.SetupConventionFinder`1">
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FluentNHibernate.Conventions.Helpers.ForeignKey">
+      <Item value="EndsWith`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Moq.Mock`1">
+      <Item value="Setup`1" priority="4" />
+      <Item value="Object" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Moq.Language.Flow.ISetup`2">
+      <Item value="Returns`16" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="AsQueryable`0" priority="1" />
+      <Item value="Where`1" priority="2" />
+      <Item value="Any`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@UnitTests.Helpers.Helper">
+      <Item value="GetProducts`0" priority="0" />
+      <Item value="GetProductRepository`0" priority="0" />
+      <Item value="GetCategoryRepository`0" priority="0" />
+      <Item value="GetCategories`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:WebUI.Controllers.AdminController">
+      <Item value="Edit`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper`1">
+      <Item value="LabelFor`2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="AreEqual`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ViewResult">
+      <Item value="ViewData" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ViewDataDictionary">
+      <Item value="Model" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Moq.It">
+      <Item value="Is`1" priority="0" />
+      <Item value="IsAny`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Any`1" priority="0" />
+      <Item value="ToList`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Where`1" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

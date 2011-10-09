@@ -1,0 +1,1 @@
+C:\Users\mmccarty\Documents\Visual Studio 2010\Sharedlibs\FluentNhibernate_3_shared\NHibernate.dll

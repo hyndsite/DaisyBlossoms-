@@ -1,0 +1,9 @@
+<Modules>
+  <Module PersistentId="A996E678-C8E0-4605-B8CE-90C646240647" ModuleId="DTOS" />
+  <Module PersistentId="610C081B-6DDC-4BDD-9E31-BEE2042B3A5C" ModuleId="RepoInfrastructure" />
+  <Module PersistentId="3EB60312-6A2D-40C2-8B6B-B9502DA4A091" ModuleId="NHibernateLayer" />
+  <Module PersistentId="9D3A890F-7E23-4A3A-A47C-FAA48CE716A3" ModuleId="WebUI" />
+  <Module PersistentId="d:Miscellaneous Files" ModuleId="NHibernate" />
+  <Module PersistentId="BCF98CD4-8FE5-402C-8DB6-7BAAD31FA180" ModuleId="UnitTests" />
+  <Module PersistentId="System.Web.Mvc, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="System.Web.Mvc" />
+</Modules>

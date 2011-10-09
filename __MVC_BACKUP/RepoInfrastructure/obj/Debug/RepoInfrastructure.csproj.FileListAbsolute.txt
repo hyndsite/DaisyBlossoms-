@@ -1,0 +1,9 @@
+C:\Users\mmccarty\documents\visual studio 2010\Projects\DaisyBlossoms\RepoInfrastructure\bin\Debug\RepoInfrastructure.dll
+C:\Users\mmccarty\documents\visual studio 2010\Projects\DaisyBlossoms\RepoInfrastructure\bin\Debug\RepoInfrastructure.pdb
+C:\Users\mmccarty\documents\visual studio 2010\Projects\DaisyBlossoms\RepoInfrastructure\bin\Debug\NHibernate.dll
+C:\Users\mmccarty\documents\visual studio 2010\Projects\DaisyBlossoms\RepoInfrastructure\bin\Debug\Iesi.Collections.dll
+C:\Users\mmccarty\documents\visual studio 2010\Projects\DaisyBlossoms\RepoInfrastructure\bin\Debug\Antlr3.Runtime.dll
+C:\Users\mmccarty\documents\visual studio 2010\Projects\DaisyBlossoms\RepoInfrastructure\bin\Debug\Remotion.Data.Linq.dll
+C:\Users\mmccarty\documents\visual studio 2010\Projects\DaisyBlossoms\RepoInfrastructure\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mmccarty\documents\visual studio 2010\Projects\DaisyBlossoms\RepoInfrastructure\obj\Debug\RepoInfrastructure.dll
+C:\Users\mmccarty\documents\visual studio 2010\Projects\DaisyBlossoms\RepoInfrastructure\obj\Debug\RepoInfrastructure.pdb
