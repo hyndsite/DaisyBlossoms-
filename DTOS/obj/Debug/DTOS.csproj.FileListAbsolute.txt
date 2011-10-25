@@ -1,5 +1,5 @@
-C:\Users\mmccarty\documents\visual studio 2010\Projects\DaisyBlossoms\DTOS\bin\Debug\DTOS.dll
-C:\Users\mmccarty\documents\visual studio 2010\Projects\DaisyBlossoms\DTOS\bin\Debug\DTOS.pdb
-C:\Users\mmccarty\documents\visual studio 2010\Projects\DaisyBlossoms\DTOS\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\mmccarty\documents\visual studio 2010\Projects\DaisyBlossoms\DTOS\obj\Debug\DTOS.dll
-C:\Users\mmccarty\documents\visual studio 2010\Projects\DaisyBlossoms\DTOS\obj\Debug\DTOS.pdb
+C:\Users\mmccarty\Documents\Visual Studio 2010\Projects\DaisyBlossoms\DTOS\bin\Debug\DTOS.dll
+C:\Users\mmccarty\Documents\Visual Studio 2010\Projects\DaisyBlossoms\DTOS\bin\Debug\DTOS.pdb
+C:\Users\mmccarty\Documents\Visual Studio 2010\Projects\DaisyBlossoms\DTOS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mmccarty\Documents\Visual Studio 2010\Projects\DaisyBlossoms\DTOS\obj\Debug\DTOS.dll
+C:\Users\mmccarty\Documents\Visual Studio 2010\Projects\DaisyBlossoms\DTOS\obj\Debug\DTOS.pdb

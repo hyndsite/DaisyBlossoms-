@@ -5,7 +5,9 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 using DTOS;
+using NHibernate;
 using RepoInfrastructure;
+using WebUI.Filters;
 using WebUI.Models.Admin;
 
 
@@ -28,11 +30,15 @@ namespace WebUI.Controllers
 
 		[HttpGet]
 		public ViewResult Add() {
-			return View(new Product());
+		    return View(new Product());
 		}
 
-		[HttpPost]
+       
+
+        [HttpPost]
+        [UnitOfWork]
 		public ActionResult Add(Product product) {
+
 			if (_prodRepo.Add(product)) {
 				return RedirectToAction("List", "Admin");
 			}
@@ -44,6 +50,7 @@ namespace WebUI.Controllers
 			return View(_prodRepo.FindBy(prod => prod.ProductId == productIDtoEdit));
 		}
 
+        [UnitOfWork]
 		public ViewResult Delete(int id) {
 			var productIDtoEdit = id;
 			var productToDelete = _prodRepo.FindBy(x => x.ProductId == productIDtoEdit);
@@ -55,5 +62,8 @@ namespace WebUI.Controllers
 			return View("List");
 		}
 
+        protected override void OnActionExecuted(ActionExecutedContext filterContext) {
+            base.OnActionExecuted(filterContext);
+        }
     }
 }

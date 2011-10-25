@@ -7,16 +7,17 @@ namespace NHibernateLayer
 {
 	public class UnitOfWork : IUnitOfWork
 	{
-		private readonly ISessionFactory _sessionFactory;
+		//private readonly ISessionFactory _sessionFactory;
 		private readonly ITransaction _transaction;
 		public ISession Session { get; private set; }
 
-		public UnitOfWork(ISessionFactory sessionFactory)
+		public UnitOfWork(ISession session)
 		{
-			_sessionFactory = sessionFactory;
+			//_sessionFactory = sessionFactory;
 			
 			//Open Session
-			Session = _sessionFactory.OpenSession();
+			//Session = _sessionFactory.OpenSession();
+		    Session = session;
 			Session.FlushMode = FlushMode.Auto;
 			_transaction = Session.BeginTransaction(IsolationLevel.ReadCommitted);
 		}

@@ -5,5 +5,6 @@
   <Module PersistentId="9D3A890F-7E23-4A3A-A47C-FAA48CE716A3" ModuleId="WebUI" />
   <Module PersistentId="d:Miscellaneous Files" ModuleId="NHibernate" />
   <Module PersistentId="BCF98CD4-8FE5-402C-8DB6-7BAAD31FA180" ModuleId="UnitTests" />
-  <Module PersistentId="System.Web.Mvc, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="System.Web.Mvc" />
+  <Module PersistentId="System.Web.Mvc, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="System.Web.Mvc" />
+  <Module PersistentId="E91A2A6A-24BF-4407-B27C-67752623CCA2" ModuleId="SessionManagement" />
 </Modules>

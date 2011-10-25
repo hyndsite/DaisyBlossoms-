@@ -97,12 +97,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controllers\AdminController.cs" />
+    <Compile Include="Extentions.cs" />
+    <Compile Include="Filters\UnitOfWorkAttribute.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Infrastructure\ContainerInitializer.cs" />
+    <Compile Include="Infrastructure\IoC.cs" />
+    <Compile Include="Infrastructure\InjectingActionInvoker.cs" />
     <Compile Include="Infrastructure\ModuleRepository.cs" />
     <Compile Include="Infrastructure\NinjectControllerFactory.cs" />
+    <Compile Include="Infrastructure\Registries\FilterRegistry.cs" />
+    <Compile Include="Infrastructure\Registries\NHibernateRegistry.cs" />
+    <Compile Include="Infrastructure\Registries\RepositoryRegistry.cs" />
     <Compile Include="Infrastructure\SessionProvider.cs" />
     <Compile Include="Infrastructure\StructureMapDependencyResolver.cs" />
     <Compile Include="Models\Admin\ProductListViewModel.cs" />

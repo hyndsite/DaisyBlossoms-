@@ -33,7 +33,13 @@ namespace NHibernateLayer {
 		#region IRepository Members
 
 		public bool Add(T entity) {
-			_session.Save(entity);
+            try {
+                _session.SaveOrUpdate(entity);
+            }
+            catch (Exception ex) {
+                Console.WriteLine(string.Format("Save Error {0}.  Possible inner error {1}", ex.Message, ex.InnerException.Message));
+                return false;
+            }
 			return true;
 		}
 
